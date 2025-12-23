@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amine !</h1>
 <h3 align="center">A passionate full stack developer and AI engineer</h3>
 
-- 🔭 I’m currently **a 4th year student at the National Higher School of Artificial Intelligence**
+- 🔭 I’m currently **a final year student at the National Higher School of Artificial Intelligence**
 
 - 🌱 I’m currently learning **Artificial Intelligence and new technologies**
 
